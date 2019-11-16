@@ -37,7 +37,8 @@ figcaption {
 
 #details {
   display:block;
-  background-color: orange
+  background-color: orange;
+  margin: auto;
 }
 #details div {
   float: left;
