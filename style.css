@@ -37,11 +37,12 @@ figcaption {
 
 #details {
   display:block;
-  background-color: orange;
+
   
 }
 #details div {
   float: left;
   width: 25%;
   text-align: center;
+  background-color: orange;
 }
