@@ -20,7 +20,7 @@ nav {
 
 nav a {
   padding: 10px;
-  background-color: green;
+  background-color: orange;
 }
 
 figcaption {
@@ -44,5 +44,5 @@ figcaption {
   float: left;
   width: 25%;
   text-align: center;
-  background-color: orange;
+  background-color: mahogany;
 }
